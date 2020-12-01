@@ -1,4 +1,4 @@
 # Responsive Landing Page 
 
-![img](/doc/img.PNG)
-![img](/doc/pic.PNG)
+![img](/android-green/doc/img.PNG)
+![img](/android-green/doc/pic.PNG)
